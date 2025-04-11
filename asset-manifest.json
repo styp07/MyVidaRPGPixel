@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyVidaRPGPixel/static/css/main.e6c13ad2.css",
+    "main.js": "/MyVidaRPGPixel/static/js/main.1d3400be.js",
+    "static/js/453.9939159d.chunk.js": "/MyVidaRPGPixel/static/js/453.9939159d.chunk.js",
+    "index.html": "/MyVidaRPGPixel/index.html",
+    "main.e6c13ad2.css.map": "/MyVidaRPGPixel/static/css/main.e6c13ad2.css.map",
+    "main.1d3400be.js.map": "/MyVidaRPGPixel/static/js/main.1d3400be.js.map",
+    "453.9939159d.chunk.js.map": "/MyVidaRPGPixel/static/js/453.9939159d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1d3400be.js"
+  ]
+}
