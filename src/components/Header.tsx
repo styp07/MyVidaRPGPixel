@@ -4,7 +4,13 @@ import { styled } from '@mui/material/styles';
 
 const StyledAppBar = styled(AppBar)`
   background-color: #2b2b2b;
-  margin-bottom: 20px;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  z-index: 1100;
 `;
 
 const Header = () => {
